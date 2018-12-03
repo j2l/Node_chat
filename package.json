@@ -1,4 +1,11 @@
 {
+  "main": "chat.js",
+  "engines": {
+    "node": "8.x"
+  },
+  "scripts": {
+    "start": "node chat.js"
+  },
   "name": "NOde chat Aaku",
   "version": "0.0.2",
   "description": "AIM chat",
@@ -8,12 +15,5 @@
     "node-emoji": "^1.8.1",
     "socket.io": "^2.2.0",
     "delivery": "^0.0.6"
-  },
-  "scripts": {
-    "start": "node chat.js"
-  },
-    "main": "chat.js",
-    "engines": {
-    "node": "8.x"
   }
 }
