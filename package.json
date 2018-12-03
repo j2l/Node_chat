@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node chat.js"
   },
-  "name": "NOde chat Aaku",
+  "name": "NodeChat",
   "version": "0.0.2",
   "description": "AIM chat",
   "dependencies": {
